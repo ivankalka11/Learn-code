@@ -1,0 +1,4 @@
+<--Learning is fun-->
+  1. Learn Git
+  2. Learn Programming Fundamental
+  3. Learn PHP & HTML
